@@ -1,4 +1,4 @@
-# Hackathon 2022 - Slice Card on PCB
+# Slice Card on PCB
 
 ### Scheme
 ![Scheme](images/scheme.png)
